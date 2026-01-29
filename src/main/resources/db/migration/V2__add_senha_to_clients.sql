@@ -1,0 +1,2 @@
+ALTER TABLE clients
+    ADD COLUMN senha VARCHAR(255) NOT NULL;
